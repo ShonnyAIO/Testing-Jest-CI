@@ -1,5 +1,5 @@
 function sum(a, b) {
-    return a + b + 42;
+    return a + b;
 }
 
 // URL: https://jestjs.io/docs/getting-started
