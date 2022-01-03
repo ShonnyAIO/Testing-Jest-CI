@@ -19,6 +19,5 @@ workflows:
       working_directory: ~/repo
 
       steps:
-        - checkout
         - run: npm install
         - run: npm test
