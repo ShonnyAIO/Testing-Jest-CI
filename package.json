@@ -1,0 +1,20 @@
+{
+  "name": "testing-jest-ci",
+  "version": "1.0.0",
+  "description": "This is a test with Jest to NodeJS project",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Testing",
+    "NodeJS",
+    "Jest",
+    "CircleCI"
+  ],
+  "author": "Jonathan Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
