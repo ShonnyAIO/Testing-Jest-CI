@@ -17,6 +17,5 @@ workflows:
           - image: circleci/node@4.7
 
         steps:
-          - checkout
           - run: npm install
           - run: npm test
